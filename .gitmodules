@@ -1,0 +1,6 @@
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/MatheusB-dev77/FASE-1-Constru-o-dos-Subm-dulos.git
+[submodule "config"]
+	path = config
+	url = https://github.com/MatheusB-dev77/2.-Reposit-rio-de-Infraestrutura-estoque-infra-config-.git
