@@ -1,5 +1,6 @@
 const express = require('express');
 const userRoutes = require('./src/routes/userRoutes'); // NOVA LINHA
+app.use('/api/estoque', estoqueRoutes)
 const app = express();
 app.use(express.json());
 app.use('/api/usuarios', userRoutes); // NOVA LINHA
